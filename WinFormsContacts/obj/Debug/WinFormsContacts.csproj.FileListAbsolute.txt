@@ -1,0 +1,11 @@
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe.config
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.exe
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\bin\Debug\WinFormsContacts.pdb
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.AssemblyReference.cache
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.ContactDetail.resources
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Form1.resources
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.Properties.Resources.resources
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.GenerateResource.cache
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.csproj.CoreCompileInputs.cache
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.exe
+C:\Users\yahir\OneDrive\Escritorio\ContactsNET\WinFormsContacts\WinFormsContacts\obj\Debug\WinFormsContacts.pdb

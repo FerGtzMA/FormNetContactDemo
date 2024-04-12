@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\bussinesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\bussinesslogiclayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\contactdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|c:\\users\\yahir\\onedrive\\escritorio\\contactsnet\\winformscontacts\\winformscontacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4CA30B1-710B-41BD-8282-D3E23FE63EFB}|WinFormsContacts\\WinFormsContacts.csproj|solutionrelative:winformscontacts\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Contact.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\Contact.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Contact.cs",
+              "RelativeToolTip": "WinFormsContacts\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:21:26.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\DataAccessLayer.cs",
+              "RelativeToolTip": "WinFormsContacts\\DataAccessLayer.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAEwI0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:20:40.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BussinessLogicLayer.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\BussinessLogicLayer.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\BussinessLogicLayer.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\BussinessLogicLayer.cs",
+              "RelativeToolTip": "WinFormsContacts\\BussinessLogicLayer.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAADgvyIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:20:08.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactDetail.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\ContactDetail.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\ContactDetail.cs",
+              "RelativeToolTip": "WinFormsContacts\\ContactDetail.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwCsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:18:14.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ContactDetail.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\ContactDetail.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\ContactDetail.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\ContactDetail.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsContacts\\ContactDetail.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:53:17.7Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\Form1.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsContacts\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T22:49:13.938Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Form1.cs",
+              "RelativeDocumentMoniker": "WinFormsContacts\\Form1.cs",
+              "ToolTip": "C:\\Users\\yahir\\OneDrive\\Escritorio\\ContactsNET\\WinFormsContacts\\WinFormsContacts\\Form1.cs",
+              "RelativeToolTip": "WinFormsContacts\\Form1.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADgv08AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T23:13:00.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
