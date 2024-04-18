@@ -26,23 +26,6 @@ namespace WinFormsContacts
                 firstName.Value = contact.FirstName;
                 firstName.DbType = System.Data.DbType.String;
 
-                /*
-                SqlParameter lastName = new SqlParameter();
-                lastName.ParameterName = "@LastName";
-                lastName.Value = contact.LastName;
-                lastName.DbType = System.Data.DbType.String;
-
-                SqlParameter phone = new SqlParameter();
-                phone.ParameterName = "@Phone";
-                phone.Value = contact.Phone;
-                phone.DbType = System.Data.DbType.String;
-
-                SqlParameter adress = new SqlParameter();
-                adress.ParameterName = "@Adress";
-                adress.Value = contact.Address;
-                adress.DbType = System.Data.DbType.String;
-                */
-
                 SqlParameter lastName = new SqlParameter("@LastName", contact.LastName);
                 SqlParameter phone = new SqlParameter("@Phone", contact.Phone);
                 SqlParameter address = new SqlParameter("@Adress", contact.Address);
